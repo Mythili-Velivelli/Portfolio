@@ -14,7 +14,7 @@ This is my personal portfolio website that showcases my **skills, projects, and 
 - **Tools**: Git, VS Code  
 ---
 ## 🌐 Live Demo
-- https://github.com/Mythili-Velivelli/Portfolio.git
+- https://mythili-velivelli.github.io/Portfolio/
 ---
 ## 📸 Screenshots
 
